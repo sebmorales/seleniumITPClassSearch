@@ -1,0 +1,25 @@
+//use this one
+https://sis.nyu.edu/psc/csprod/EMPLOYEE/CSSS/c/NYU_SR.NYU_CLS_SRCH.GBL?Page=NYU_CLS_SRCH&Action=U&ExactKeys=Y&TargetFrameName=None
+
+//cookie
+BIGipServer~CFS-PROD-LOW~sis.nyu.edu-pool=rd726o00000000000000000000ffffd8a54221o8066; adc594-elwb-8051-PORTAL-PSJSESSIONID=1F2Yj34tu-ii-ANj18HwuplpkCjvqFr_!1218323075; ExpirePage=https://sis.nyu.edu/psc/csprod/; PS_LOGINLIST=https://sis.nyu.edu/csprod; PS_TOKENEXPIRE=11_Jun_2017_19:09:19_GMT; PS_TOKEN=qQAAAAQDAgEBAAAAvAIAAAAAAAAsAAAABABTaGRyAk4AeQg4AC4AMQAwABSr1u9RAsrVdzZDYJBkKowNsFQTZWkAAAAFAFNkYXRhXXicJYlbCkBQFEWXRwYg0yAXeXxKN19ESL6Mw9wMzu46u9Zun/UAYeB7nvr1cRfPXBzcjKJlYyeyzJrJqbXKDPRMLPIbVUGOoSFV16JRfmb6dKJxbCnlCxc+TzsNkg==; SignOnDefault=
+
+
+
+//search
+javascript:submitAction_win0(document.win0,'DERIVED_SSS_SCR_SSS_LINK_ANCHOR2');
+//ITP
+    javascript:submitAction_win0(document.win0,'LINK1$367');
+//class
+
+//nime 105
+javascript:submitAction_win0(document.win0,'NYU_CLS_DERIVED_TERM$105');
+
+Understanding Networks 526
+javascript:submitAction_win0(document.win0,'NYU_CLS_DERIVED_TERM$526');
+
+Live web 457
+javascript:submitAction_win0(document.win0,'NYU_CLS_DERIVED_TERM$457');
+
+
+https://sis.nyu.edu/psc/csprod/EMPLOYEE/CSSS/c/NYU_SR.NYU_CLS_SRCH.GBL?Page=NYU_CLS_SRCH&Action=U&ExactKeys=Y&TargetFrameName=21936

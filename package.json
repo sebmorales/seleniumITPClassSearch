@@ -1,0 +1,14 @@
+{
+  "name": "seleniumTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seleniumTest.js",
+  "scripts": {
+    "start": "node seleniumTest.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^3.4.0"
+  }
+}
