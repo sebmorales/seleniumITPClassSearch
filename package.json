@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "nodemailer": "^4.0.1",
+    "phantomjs": "^2.1.7",
     "selenium-webdriver": "^3.4.0"
   }
 }
